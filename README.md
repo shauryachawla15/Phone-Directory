@@ -1,3 +1,9 @@
+This is my Phone Directory project, done in Java language. I built this when I was in my freshman year, in CSUS. It was a part of CSC-20 class( Programming Concepts and Methodology II). I have used OOPs concepts in Java for making this project.
+
+
+
+
+
 CSC20 HW3               Phone Directory                          Sp2020 
  
 You will implement a phone directory program that reads names of friends and their phone numbers from a file called names.txt (given) and stores them in a HashMap<key,value> data structure. Key and value are of String type Your program needs to be menu based and have the following capabilities: 
@@ -61,15 +67,23 @@ Option r:  Remove a friend
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/3a99f7db-9d00-4016-9a22-bc3df43c4d70)
 
 Option s: Search for a friend:
+![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/35987296-a448-4807-a4d1-9d86b443d891)
+
  
 
 Option c: Change a friends phone number
+![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/e8344871-4e92-43ba-8eb3-793efa35d9b2)
+
  
 
 Option m: Merge files (update phone directory)
+![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/3b1ff251-2db3-44f1-bca7-bcceec0d3f52)
+
 
  
 
 
 Option q: Quit 
+![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/45b7c553-3598-463a-ad21-dd3a72b97424)
+
  
