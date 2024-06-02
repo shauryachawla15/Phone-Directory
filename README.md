@@ -48,10 +48,12 @@ Main menu: Should accept upper and lower case:
 
 
 Tests: option d:  displayDirectory
+
  ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/fb2ebbc2-c8e9-4187-a9b9-89b920073557)
 
     
  Option a: Add a friend
+ 
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/e798fb8a-0771-4df7-9d0b-df93c4374b6a)
 
  
@@ -67,16 +69,19 @@ Option r:  Remove a friend
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/3a99f7db-9d00-4016-9a22-bc3df43c4d70)
 
 Option s: Search for a friend:
+
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/35987296-a448-4807-a4d1-9d86b443d891)
 
  
 
 Option c: Change a friends phone number
+
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/e8344871-4e92-43ba-8eb3-793efa35d9b2)
 
  
 
 Option m: Merge files (update phone directory)
+
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/3b1ff251-2db3-44f1-bca7-bcceec0d3f52)
 
 
@@ -84,6 +89,7 @@ Option m: Merge files (update phone directory)
 
 
 Option q: Quit 
+
 ![image](https://github.com/shauryachawla15/Phone-Directory/assets/142179616/45b7c553-3598-463a-ad21-dd3a72b97424)
 
  
