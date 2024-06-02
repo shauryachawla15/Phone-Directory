@@ -4,7 +4,7 @@ This is my Phone Directory project, done in Java language. I built this when I w
 
 
 
-CSC20 HW3               Phone Directory                          Sp2020 
+              Phone Directory                                                                                        
  
 You will implement a phone directory program that reads names of friends and their phone numbers from a file called names.txt (given) and stores them in a HashMap<key,value> data structure. Key and value are of String type Your program needs to be menu based and have the following capabilities: 
 o	display all names in the phone directory; 
